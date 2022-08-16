@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * Velocity specifies the change in position on the `x` and the `y` axes.
  * Velocity allows us to give our ball some speed and direction.
