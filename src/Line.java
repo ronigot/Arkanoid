@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * A line (actually a line-segment) connects two points -- a start point and an end point.
  * Lines have lengths, and may intersect with other lines.
