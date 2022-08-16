@@ -1,5 +1,3 @@
-// ID: 322805029
-
 import java.util.ArrayList;
 import java.util.List;
 
