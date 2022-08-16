@@ -1,4 +1,3 @@
-// ID: 322805029
 import biuoop.KeyboardSensor;
 
 import java.util.List;
