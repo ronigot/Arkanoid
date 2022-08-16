@@ -1,4 +1,3 @@
-// 322805029
 import biuoop.DrawSurface;
 
 import java.util.ArrayList;
