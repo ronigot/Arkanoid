@@ -1,4 +1,3 @@
-// ID: 322805029
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 
