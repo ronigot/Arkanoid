@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * updates the score counter when blocks are being hit and removed.
  */
