@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * The Collidable interface used by things that can be collided with.
  */
