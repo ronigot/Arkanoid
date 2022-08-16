@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * BallRemover is in charge of removing balls, and updating an available-balls counter.
  */
