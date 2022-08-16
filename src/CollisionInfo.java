@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * This class holds the information about the point at which the collision occurs,
  * and the collidable object involved in the collision.
