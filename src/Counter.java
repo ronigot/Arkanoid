@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * The Counter is used for counting things.
  */
