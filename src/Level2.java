@@ -1,4 +1,3 @@
-// ID: 322805029
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
