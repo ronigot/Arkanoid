@@ -1,5 +1,3 @@
-// ID: 322805029
-
 import biuoop.DrawSurface;
 
 import java.awt.Color;
