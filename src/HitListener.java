@@ -1,5 +1,3 @@
-// ID: 322805029
-
 /**
  * Objects that should be notified of hit events are implements this interface.
  */
